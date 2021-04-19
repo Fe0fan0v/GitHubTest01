@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     print('Hello world')
-    print('Изменения новые')
+    print('asdfasdfasdf')
     return 'Test GitHub!'
 
 
